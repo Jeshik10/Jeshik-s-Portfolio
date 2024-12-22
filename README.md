@@ -10,7 +10,7 @@ This is a simple portfolio website to showcase my projects and skills.
 
 ## Deployment
 
-I deployed the website using [GitHub Pages](https://pages.github.com/). The site is hosted [here](https://your-username.github.io/portfolio-website).
+I deployed the website using [GitHub Pages](https://jeshik10.github.io/Jeshik-s-Portfolio/). The site is hosted [here](https://github.com/Jeshik10/Jeshik-s-Portfolio).
 
 ## Steps to Build
 
